@@ -1,5 +1,5 @@
 # 💫 Oi eu sou Ângelo Lemaire, estudante e Dev Front-end :
-🔭 Atualmente trabalho na Myndware como desenvolvedor Front-End<br>🌱 Atualmente estou aprendendo framework Vue(quasar) e react<br>💬 Pergunte-me sobre qualquer coisa front-end e ficarei feliz em ajudar se souber<br>⚡ Curiosidade: Eu sempre me esforço para aprender o máximo possível sobre novas tecnologias de front-end.
+🔭 Atualmente trabalho como desenvolvedor Front-End<br>🌱 Atualmente estou aprendendo framework Vue(quasar) e react<br>💬 Pergunte-me sobre qualquer coisa front-end e ficarei feliz em ajudar se souber<br>⚡ Curiosidade: Eu sempre me esforço para aprender o máximo possível sobre novas tecnologias de front-end.
 
 
 ## 🌐 Socials:
