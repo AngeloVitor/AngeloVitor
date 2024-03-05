@@ -1,4 +1,5 @@
-#  Formado em Ciência da Computação pela UNINASSAU, atualmente trabalhando
+#  ÂNGELO VITOR LEMAIRE
+ Formado em Ciência da Computação pela UNINASSAU, atualmente trabalhando
  como desenvolvedor front-end. Experiência em colaboração em equipe para
  alcançar metas desafiadoras e cumprir prazos rigorosos. Forte capacidade
  analítica, com experiência em programação e vivência profissional na área.
